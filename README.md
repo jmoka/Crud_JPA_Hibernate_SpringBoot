@@ -4,6 +4,10 @@ Este projeto demonstra a utilização do **JPA (Java Persistence API)** com **Hi
 
 O projeto é estruturado de forma didática para apresentar como o JPA gerencia o ciclo de vida das entidades através do **EntityManager**.
 
+## 📚 AULA COMPLETA
+[Acesse a Aula Completa aqui](https://github.com/jmoka/Crud_JPA_Hibernate_SpringBoot/blob/main/AULA.md)
+
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
